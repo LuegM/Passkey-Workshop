@@ -25,7 +25,7 @@ https://developer.apple.com/help/account/manage-your-team/locate-your-team-id/
     nano .env
     ```
 	2. make changes
-	   ![[Passkeys/pk_terminal_teamID.png]]
+	   ![TeamID](./images/pk_terminal_teamID.png)
 		1. if you have a Team-ID -> add it here
 		2. if you don't have a Team-ID -> change one character
 5. run the *mobile.sh* script again
@@ -33,7 +33,7 @@ https://developer.apple.com/help/account/manage-your-team/locate-your-team-id/
   ./mobile.sh
   ``` 
 6. copy the url from the shell
-   ![[pk_terminal_cf-url.png]]
+   ![CloudFlareURL](./images/pk_terminal_cf-url.png)
 7. open the url in a browser
 8. go to the *TestPanel*
 9. you can now register and sign in with passkeys
@@ -101,7 +101,9 @@ https://developer.apple.com/help/account/manage-your-team/locate-your-team-id/
   RP_ALLOWED_ORIGINS=replace-with-your-hostname.trycloudflare.com
   RP_ALLOWED_CROSS_ORIGINS=replace-with-your-hostname.trycloudflare.com
   ```
-	Also edit the URL for your RP backend API so it includes your tunnel hostname
+  
+  Also edit the URL for your RP backend API so it includes your tunnel hostname
+	
   ```bash
   REACT_APP_API=https://replace-with-your-hostname.trycloudflare.com/v1
   ```
