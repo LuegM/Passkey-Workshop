@@ -34,7 +34,7 @@ https://developer.apple.com/help/account/manage-your-team/locate-your-team-id/
   ``` 
 6. copy the url from the shell
    ![CloudFlareURL](./images/pk_terminal_cf-url.png)
-7. open the url in a browser
+7. open the url in a browser `(use https://)`
 8. go to the *TestPanel*
 9. you can now register and sign in with passkeys
 	1. note: only the TestPanel is working!
