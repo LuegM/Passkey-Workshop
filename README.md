@@ -46,15 +46,8 @@ https://developer.apple.com/help/account/manage-your-team/locate-your-team-id/
 ---
 
 #### manual (windows):
-
-
-  ```
-  install Git
-  https://git-scm.com/download/win
-  ```
   
-  
-0. start Powershell  
+0. start **Powershell**
 1. Clone the repository
   ```bash
   git clone https://github.com/YubicoLabs/passkey-workshop
