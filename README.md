@@ -1,12 +1,16 @@
 ### 1. install Docker Desktop
 https://www.docker.com/products/docker-desktop/
 
-### 2. get Apple Developer Team-ID
+### 2. install Git
+https://git-scm.com/downloads
+
+### 3. get Apple Developer Team-ID (Optional)
 https://developer.apple.com/help/account/manage-your-team/locate-your-team-id/
 <div style="page-break-after: always;"></div>
 
-### 3. setup the backend
+### 4. setup the backend
 #### automated / script (macOS and Linux):
+`!! for windows scroll down`
 1. Clone the repository
   ```bash
   git clone https://github.com/YubicoLabs/passkey-workshop
