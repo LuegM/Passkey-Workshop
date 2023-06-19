@@ -21,7 +21,7 @@ https://developer.apple.com/help/account/manage-your-team/locate-your-team-id/
   ```
 3. run the *mobile.sh* script
   ```bash
-  ./mobile.sh
+  ./cloudflared.sh
   ```
 4. edit *.env* file
 	1. open the file
