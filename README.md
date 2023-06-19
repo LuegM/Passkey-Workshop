@@ -58,7 +58,7 @@ https://developer.apple.com/help/account/manage-your-team/locate-your-team-id/
   ```
 3. Copy the environment file
   ```bash
-  cp tunnel.env .env
+  cp cloudflared.env .env
   ```
 4. Copy the frontend code
   ```bash
