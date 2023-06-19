@@ -34,7 +34,7 @@ https://developer.apple.com/help/account/manage-your-team/locate-your-team-id/
 		2. if you don't have a Team-ID -> change one character
 5. run the *mobile.sh* script again
   ```bash
-  ./mobile.sh
+  ./cloudflared.sh
   ``` 
 6. copy the url from the shell
    ![CloudFlareURL](./images/pk_terminal_cf-url.png)
